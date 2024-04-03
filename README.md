@@ -3,7 +3,7 @@ A Master Duel banlist for ProjectIgnis
 
 
 # How to use
-Put the following repos in your configs file (ex:ProjectIgnis\config.configs.json). 
+Put the following repos in your configs file (ex: "ProjectIgnis\config\configs.json"). 
 
 ```json
 		{
